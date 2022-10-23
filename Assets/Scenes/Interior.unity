@@ -578,7 +578,7 @@ GameObject:
   - component: {fileID: 1497472430}
   - component: {fileID: 1497472429}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Interior
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5524,17 +5524,9 @@ MonoBehaviour:
   m_Mesh: {fileID: 696490372}
   m_VersionIndex: 9168
   m_IsSelectable: 1
-  m_SelectedFaces: 6a000000
-  m_SelectedEdges:
-  - a: 454
-    b: 457
-  - a: 457
-    b: 456
-  - a: 455
-    b: 454
-  - a: 456
-    b: 455
-  m_SelectedVertices: c6010000c9010000c8010000c7010000
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!4 &1497472434
 Transform:
   m_ObjectHideFlags: 0
